@@ -5,7 +5,7 @@ User can download the dataset from the following link :- http://jmcauley.ucsd.ed
 Steps :-</br>
 1) Select Amazon Product Reviews.</br>
 2) CLick the download link - Amazon Data Page - <link>https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/</link></br>
-3) Scroll down and select - Grocery and Gourmet Food. <link>reviews</link>
+3) Scroll down and select - Grocery and Gourmet Food.
 4) Extract the json file from the compressed file and store it in the same folder as the ipynb file</br></br></br>
 
 ## Start the Analysis</br>

@@ -13,7 +13,7 @@ Steps:
 1) Read the json data and convert it into pandas dataframe
   - This is done in two different ways
 2) EDA on imported dataset to understand the dataset
-3) The complete the following steps: (Operations explained in ipynb notebook)
+3) The completed steps: (Operations explained in ipynb notebook)
   ·         Item having the least rating.</br>
   ·         Item having most rating.</br>
   ·         Item having the longest reviews.</br>
@@ -37,7 +37,7 @@ Steps:
 1) Read the json data and convert it into pandas dataframe
   - This is done in two different ways
 2) EDA on imported dataset to understand the dataset
-3) The complete the following steps: (Operations explained in ipynb notebook)
+3) The completed steps: (Operations explained in ipynb notebook)
   ·         Transform: change the date MM-DD-YYYY format.</br>
   ·         Create a mysql database and table</br>
   ·         Create connection to database and store the dataframe into the sql database</br>

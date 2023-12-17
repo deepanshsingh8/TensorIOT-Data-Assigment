@@ -6,7 +6,7 @@ Steps :-</br>
 1) Select Amazon Product Reviews.</br>
 2) CLick the download link - Amazon Data Page - <link>https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/</link></br>
 3) Scroll down and select - Grocery and Gourmet Food.
-4) Extract the json file from the compressed file and store it in the same folder as the ipynb file</br></br></br>
+4) Extract the json file from the compressed file and store it in the same folder as the ipynb file. (Also put the compressed file in the same folder to run both the data ingestion functions).</br></br></br>
 
 ## Start the Analysis</br>
 Steps:

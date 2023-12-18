@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TensorIOT - Data Assignment 1. Amazon Reviews Analysis </br>
 
 ## Download Dataset - </br>

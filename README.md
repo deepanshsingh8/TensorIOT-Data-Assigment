@@ -87,4 +87,3 @@ Steps:
   ·         Create a mysql database and table</br>
   ·         Create connection to database and store the dataframe into the sql database</br>
 4) Save the data into Parquet file</br>
->>>>>>> 5bd29901bfc0834af2184a59dec8a46e79fe90bb
